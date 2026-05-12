@@ -172,7 +172,7 @@ export default function HomePage() {
           <FileImport onImport={handleImportFromFile} />
         </section>
 
-        {/* Formular adăugare nume */}
+        {/* Formularul adăugare nume */}
         <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6">
           <h2 className="text-lg font-semibold text-indigo-600 mb-4">
             Sau introdu nume manual
