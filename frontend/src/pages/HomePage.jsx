@@ -175,7 +175,7 @@ export default function HomePage() {
         {/* Formular adăugare nume */}
         <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6">
           <h2 className="text-lg font-semibold text-indigo-600 mb-4">
-            ➕ Sau introdu nume manual
+            Sau introdu nume manual
           </h2>
 
           <form onSubmit={handleAddName} className="flex gap-3" noValidate>
